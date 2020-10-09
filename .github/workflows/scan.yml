@@ -55,4 +55,4 @@ jobs:
 
 # --detect.notices.report=true \
 # --detect.detector.search.depth=3 \
-# --detect.npm.include.dev.dependencies=false \
+# --detect.npm.include.dev.dependencies=false \ 
